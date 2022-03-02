@@ -5,10 +5,10 @@ const Footer = () => {
         <div>
             <footer id="footer">
                 <div className="container">
-                    <div className="copyright">
+                    {/* <div className="copyright">
                         Credits:  <strong><span>iPortfolio</span></strong>{" & "}
                         <div>Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a></div>
-                    </div>
+                    </div> */}
                     <div className="credits">
                         {/* All the links in the footer should remain intact.
                         You can delete the links only if you purchased the pro version.
