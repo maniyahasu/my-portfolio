@@ -53,5 +53,7 @@ jobs:
               args: deploy --only hosting
               firebaseServiceAccount: "${{ secrets.FIREBASE_TOKEN }}"
               channelId: preview
+            env:
+              FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
           
   
