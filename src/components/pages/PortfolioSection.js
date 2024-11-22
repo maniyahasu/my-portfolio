@@ -3,6 +3,18 @@ import React from 'react'
 const PortFolioSection = () => {
     const projectDetails = [
         {
+            name: ' ZIDM (ZAIDYN Identity Management)',
+            description: `ZAIDYN Identity Manager is a unified identity and access management platform for Enterprise cloud-based platforms – powered by OKTA. Using Identity Manager, teams can manage their digital identities, store/secure business data, and ensure only relevant data is shared with specific users/groups`,
+            teamSize: 10,
+            image: 'zidm.jpg',
+        },
+        {
+            name: 'ZAS (ZAIDYN App Studio)',
+            description: `ZAIDYN App Studio is a rapid application development platform that offers a visual interface to create an application quickly and easily.`,
+            teamSize: 16,
+            image: 'zas.jpg',
+        },
+        {
             name: 'Mosaic AIOps',
             description: 'LTI’s Mosaic AIOps enables Enterprise IT transformation through adoption of AI-led IT Operations. This means enhanced asset monitoring, automated situation detection & remediation, smarter service desk activities by inculcating collaborative support practices in the operations teams.',
             teamSize: 8,

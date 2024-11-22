@@ -6,11 +6,10 @@ const Resume = () => {
             <section id="resume" className="resume">
                 <div className="container">
 
-                    <div className="section-title">
+                    {/* <div className="section-title">
                         <h2>Resume</h2>
-                        {/* <p>Having 6+ years of experience of working as a Front End Web developer. Hands-on experience with web application technologies such as <strong>Angular(v2-12), React, HTML5, JavaScript, Typescript, jQuery, Angular Material, SASS and CSS/CSS3.</strong></p> */}
                         <p>Innovative and deadline-driven Front end developer with 6+ years of experience of developing user-centered web application from initial concept to final, polished deliverable.</p>
-                    </div>
+                    </div> */}
 
                     <div className="row">
                         <div className="col-lg-6" data-aos="fade-up">
@@ -45,8 +44,21 @@ const Resume = () => {
                         <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                             <h3 className="resume-title">Professional Experience</h3>
                             <div className="resume-item">
+                                <h4>Lead Software Engineer - Frontend</h4>
+                                <h5>August 2022 - Present</h5>
+                                <p><em> ZS Associates </em></p>
+                                <ul>
+                                    <li>Perform code reviews to maintain quality and follow best practices.</li>
+                                    <li>Create reusable, responsive, and maintainable components and modules.</li>
+                                    <li>Debug and resolve technical issues and performance bottlenecks</li>
+                                    <li>Collaborate with designers, backend developers, and stakeholders for seamless developent.</li>
+                                    <li>Integrate RESTful APIs and third-party services into Angular applications.</li>
+                                    <li>Write and execute unit tests using Jasmine/Karma for robust application testing</li>
+                                </ul>
+                            </div>
+                            <div className="resume-item">
                                 <h4>Senior Product Engineer</h4>
-                                <h5>Feb 2021 - Present</h5>
+                                <h5>Feb 2021 - August 2022</h5>
                                 <p><em> Larsen &amp; Toubro Infotech Limited, Pune, Maharashtra, India </em></p>
                                 <ul>
                                     <li>Created required components and developed user interface as per requirements.</li>

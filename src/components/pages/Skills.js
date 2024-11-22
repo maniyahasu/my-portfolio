@@ -4,11 +4,11 @@ const Skills = () => {
     const skills = [
         {
             name: 'Angular',
-            accuracy: '85'
+            accuracy: '90'
         },
         {
             name: 'React',
-            accuracy: '60'
+            accuracy: '50'
         },
         {
             name: 'HTML5',
@@ -20,11 +20,11 @@ const Skills = () => {
         },
         {
             name: 'Javascript',
-            accuracy: '75'
+            accuracy: '90'
         },
         {
             name: 'jQuery',
-            accuracy: '60'
+            accuracy: '70'
         },
         {
             name: 'Bootstrap 4/5',
@@ -45,7 +45,7 @@ const Skills = () => {
     ];
     return (
         <div>
-            <section id="skills" className="skills section-bg">
+            <div id="skills" className="skills section-bg">
                 <div className="container">
                     <div className="section-title">
                         <h2>Skills</h2>
@@ -64,7 +64,7 @@ const Skills = () => {
                         ))}
                     </div>
                 </div>
-            </section>
+            </div>
         </div>
     )
 }

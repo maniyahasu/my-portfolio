@@ -272,6 +272,7 @@ section {
 
 .section-title {
   padding-bottom: 30px;
+  padding-top: 1.25em;
 }
 .section-title h2 {
   font-size: 32px;
@@ -440,7 +441,8 @@ section {
   padding-left: 20px;
 }
 .resume .resume-item ul li {
-  padding-bottom: 10px;
+  padding-bottom: 3px;
+  font-size: 14px;
 }
 .resume .resume-item:last-child {
   padding-bottom: 0;
@@ -982,4 +984,7 @@ section {
 }
 .w-95 {
   width: 95% !important;
+}
+.font-14px {
+  font-size: 0.875em;
 }

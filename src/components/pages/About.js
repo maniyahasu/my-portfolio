@@ -7,7 +7,9 @@ const About = () => {
                 <div className="container">
                     <div className="section-title">
                         <h2>About</h2>
-                        <p>Having 6+ years of experience of working as a Frontend Web developer. Hands-on experience with web application technologies such as <strong> Angular(v2-12), React, HTML5, JavaScript, Typescript, jQuery, Angular Material, SASS and CSS/CSS3.</strong></p>
+                        <p>
+                        With over <strong>9+ years</strong> of experience as a Front-end Developer, I have worked extensively with a wide range of technologies including <strong>Angular(v2-17), ReactJS, JavaScript, jQuery, TypeScript, HTML5, CSS, SASS/Less, Bootstrap, Angular Materials, and NodeJS(Basic).</strong> My expertise lies in building robust, user-friendly interfaces and optimizing web applications for performance and scalability.
+                        </p>
                     </div>
                     <div className="row">
                         <div className="col-lg-4" data-aos="fade-right">
@@ -29,17 +31,20 @@ const About = () => {
                                 </div>
                                 <div className="col-lg-6">
                                     <ul>
-                                        <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30 years</span></li>
+                                        <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>32 years</span></li>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master (MCA)</span></li>
                                         <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>hasumaniya@gmail.com</span></li>
                                     </ul>
                                 </div>
                             </div>
                             <ul>
-                                <li className='mb-1'> &#8226; Actively participated in daily SCRUM meetings with views for future product development under Agile Methodologies and good understanding of Agile Development</li>
-                                <li className='mb-1'> &#8226; Developed reusable code that could minimize the time needed to complete deliveries</li>
-                                <li className='mb-1'> &#8226; Having experience in charting libraries like D3 and Apache Echarts</li>
-                                <li className='mb-1'> &#8226; Analyzing and understanding the client requirements, handling client calls related to new requirements, issues, and support</li>
+                                <li className='mb-1 font-14px'> &#8226; Developed scalable and high-performance web applications using Angular 16/17.</li>
+                                <li className='mb-1 font-14px'> &#8226; Create reusable, responsive, and maintainable components and modules.</li>
+                                <li className='mb-1 font-14px'> &#8226; Collaborate with designers, backend developers, and stakeholders for seamless
+development</li>
+                                <li className='mb-1 font-14px'> &#8226; Analyzing and understanding the client requirements, handling client calls related to new requirements, issues, and support</li>
+                                <li className='mb-1 font-14px'> &#8226; Integrate RESTful APIs and third-party services into Angular applications</li>
+                                {/* <li className='mb-1'> &#8226; </li> */}
                             </ul>
                         </div>
                     </div>
