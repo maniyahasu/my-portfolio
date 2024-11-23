@@ -33,7 +33,7 @@ const Contact = () => {
                                     <h4>Call:</h4>
                                     <p>+91 8408827872, 7990514570</p>
                                 </div>
-                                /*<iframe title='google map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30259.781134136785!2d73.94599495!3d18.5527185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3c3288ba495%3A0x38e833613a63004a!2sKharadi%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1732296176837!5m2!1sen!2sin" style={{border: '0', width: '100%', height: '290px'}} allowFullScreen></iframe>*/
+{ /*<iframe title='google map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30259.781134136785!2d73.94599495!3d18.5527185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3c3288ba495%3A0x38e833613a63004a!2sKharadi%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1732296176837!5m2!1sen!2sin" style={{border: '0', width: '100%', height: '290px'}} allowFullScreen></iframe>*/}
                             </div>
                         </div>
 
